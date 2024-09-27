@@ -1,0 +1,44 @@
+{
+  "person1": {
+    "department": "PRESIDENT",
+    "name": "Jim Bigman",
+    "email": "Bigman@TLSales.com",
+    "phone": "1 800 123-3435"
+  },
+  "person2": {
+    "department": "CUSTOMER SERVICE",
+    "name": "Nancy Nice",
+    "email": "Nice@TLSales.com",
+    "phone": "1 800 123-8900"
+  },
+  "person3": {
+    "department": "SALES",
+    "name": "Jim Sleek",
+    "email": "JSleek@TLSales.com",
+    "phone": "1 800 123-4567"
+  },
+  "person4": {
+    "department": "SALES",
+    "name": "Anna Gold",
+    "email": "AGold@TLSales.com",
+    "phone": "1 800 123-4567"
+  },
+  "person5": {
+    "department": "SALES",
+    "name": "Terry White",
+    "email": "TWhite@TLSales.com",
+    "phone": "1 800 123-4567"
+  },
+  "person6": {
+    "department": "SALES",
+    "name": "John Smith",
+    "email": "JSmith@TLSales.com",
+    "phone": "1 800 123-4567"
+  },
+  "person7": {
+    "department": "SALES",
+    "name": "Anita Brown",
+    "email": "ABrown@TLSales.com>",
+    "phone": "1 800 123-4567"
+  }
+}

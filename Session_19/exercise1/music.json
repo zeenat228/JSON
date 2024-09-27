@@ -1,0 +1,51 @@
+{
+	"playlist": {
+	  "script": "window._wordtune_extension_installed = true;",
+	  "item": [
+		{
+		  "title": "Butter",
+		  "album": "Proof",
+		  "country": "Korea",
+		  "kind": "mp3",
+		  "singer": "BTS",
+		  "release_time": "10 June, 2022",
+		  "label": "big hit",
+		  "category": "Boy brand",
+		  "genre": "Hip-hop"
+		},
+		{
+		  "title": "Dynamite",
+		  "album": "Be",
+		  "country": "Korea",
+		  "kind": "mp3",
+		  "singer": "BTS",
+		  "release_time": "November 20, 2020",
+		  "label": "Big hit entertainment",
+		  "category": "Boy brand",
+		  "genre": "Pop music"
+		},
+		{
+		  "title": "Permission to Dance",
+		  "album": "R and B Remix",
+		  "country": "Korea",
+		  "kind": "mp3",
+		  "singer": "BTS",
+		  "release_time": "July 23, 2021",
+		  "label": "big hit",
+		  "category": "Boy brand",
+		  "genre": "K-pop, Korean Dance"
+		},
+		{
+		  "title": "Fake Love",
+		  "album": "Love yourself:Tear",
+		  "country": "Korea",
+		  "kind": "mp3",
+		  "singer": "BTS",
+		  "release_time": "May 18, 2018",
+		  "label": "big hit, Iriver",
+		  "category": "Boy brand",
+		  "genre": "Korean Dance, K-Pop, Hip-Hop/Rap"
+		}
+	  ]
+	}
+  }
